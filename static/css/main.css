@@ -1,0 +1,14 @@
+.task-label {
+    display: block;
+    margin-bottom: 10px;
+}
+.completed-task-label {
+    display: block;
+    margin-bottom: 10px;
+    text-decoration: line-through;
+}
+
+.highlighted-word {
+    background-color: yellow; /* or any other color you prefer */
+}
+
